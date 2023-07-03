@@ -85,7 +85,7 @@
     "updater": {
       "active": true,
       "endpoints": [
-        "https://github.com/Yidadaa/ChatGPT-Next-Web/releases/latest/download/latest.json"
+        "https://github.com/AndersonHJB/ChatGPT/releases/latest/download/latest.json"
       ],
       "dialog": false,
       "windows": {
