@@ -166,7 +166,8 @@ const de: PartialLocaleType = {
   },
   Store: {
     DefaultTopic: "Neues Gespräch",
-    BotHello: "Hallo! Wie kann ich Ihnen heute helfen?",
+    BotHello:
+      "你好，我是悦创。\n长期招收编程一对一学员,微信：二维码:[点击](https://images-aiyc-1301641396.cos.ap-guangzhou.myqcloud.com/erweim.jpg)\n- 公众号:AI悦创\n- B 站:[https://space.bilibili.com/405961705](https://space.bilibili.com/405961705)\n- 微信:Jiabcdefh「备注来源可进交流群」\n- AIGC 系列课程:《AIGC 小咖养成计划》:[链接🔗](https://study.163.com/course/courseMain.htm?share=2&shareId=480000002277025&courseId=1213564802&_trace_c_p_k2_=166341dad9264d5ba082e74afc1cd7cd)「赠送一年：🪜+答疑」",
     Error:
       "Etwas ist schief gelaufen, bitte versuchen Sie es später noch einmal.",
     Prompt: {
